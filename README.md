@@ -70,8 +70,8 @@ Thanks for Visting!
 
  
 <!-- <p align="center">
-<a href="https://linkedin.com/in/jupaka-ranjith-998675164/"><img src="https://img.shields.io/badge/-Ranjith%20Jupaka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Shambhavi Singh-998675164/"><img src="https://img.shields.io/badge/-Shambhavi%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jupaka-ranjith-998675164/"><img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ranjithjupaka@gmail.com"><img src="https://img.shields.io/badge/-ranjithjupaka@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ranjithjupaka_1/"><img src="https://img.shields.io/badge/-@ranjithjupaka_1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:seetalsinghgaur12@gmail.com"><img src="https://img.shields.io/badge/-seetalsinghgaur12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/-@ranjithjupaka_1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>  -->
